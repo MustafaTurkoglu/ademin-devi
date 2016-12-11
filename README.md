@@ -1,1 +1,1 @@
-# ademin-devi
+# cümle islemleri
